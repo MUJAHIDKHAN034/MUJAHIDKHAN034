@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mujahid Khan</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahidkhan034&label=Profile%20views&color=0e75b6&style=flat" alt="mujahidkhan034" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujahidkhan034" alt="mujahidkhan034" /></a> </p>
+<h3 align="center">A passionate Data Scientist from India</h3><
+<img align="right" alt="coding" width="400" src="https://github.com/MUJAHIDKHAN034/MUJAHIDKHAN034/assets/164493378/bf01059e-ed93-4a88-bf89-ac5eeb504af4">
 
 - 🌱 I’m currently learning **Machine Learning with Python**
 
@@ -26,3 +23,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mujahidkhan034&show_icons=true&locale=en&layout=compact" alt="mujahidkhan034" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mujahidkhan034&show_icons=true&locale=en" alt="mujahidkhan034" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mujahidkhan034&label=Profile%20views&color=0e75b6&style=flat" alt="mujahidkhan034" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mujahidkhan034" alt="mujahidkhan034" /></a> </p>
